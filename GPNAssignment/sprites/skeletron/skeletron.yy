@@ -133,8 +133,8 @@
     "resourceType": "GMNineSliceData",
   },
   "parent": {
-    "name": "GPNAssignment",
-    "path": "GPNAssignment.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "skeletron",
